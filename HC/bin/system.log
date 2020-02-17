@@ -1,0 +1,142 @@
+1;20181230 16:22:11;;;Failed attempt to log in
+2;20181230 16:22:21;;;Deactivated alarm
+3;20181230 16:22:34;;;Deactivated alarm
+4;20181230 16:22:36;;;Inside sensors triggered
+5;20181230 16:22:36;;;Shell sensors triggered
+6;20181230 16:22:42;;;Deactivated alarm
+7;20181230 16:22:56;;;Deactivated alarm
+8;20181230 16:23:02;;;Inside sensors triggered
+9;20181230 16:23:05;;;Deactivated alarm
+10;20181230 16:23:15;;;Deactivated alarm
+11;20181230 16:23:21;;;Shell sensors triggered
+12;20181230 16:23:23;;;Deactivated alarm
+13;20181230 16:24:04;;;Deactivated alarm
+14;20181230 16:24:18;;;Failed attempt to log in
+15;20181230 16:24:22;;;Failed attempt to log in
+16;20181230 16:24:25;;;Failed attempt to log in
+17;20181230 17:29:42;;;Alarm reactivated
+18;20181230 17:29:59;;;Alarm reactivated
+19;20181230 17:30:01;;;Shell sensors triggered
+20;20181230 17:30:15;;;Inside sensors triggered
+21;20181230 17:30:19;;;Alarm reactivated
+22;20181230 17:30:33;;;Alarm reactivated
+23;20181230 17:30:41;;;Alarm reactivated
+24;20181230 17:31:48;;;Deactivated alarm
+25;20181230 20:46:54;;;Deactivated alarm
+26;20181230 20:46:54;;;Failed attempt to log in
+27;20181230 20:47:37;;;Deactivated alarm
+28;20181230 20:47:37;;;Failed attempt to log in
+29;20181230 20:47:42;;;Failed attempt to log in
+30;20181230 20:47:44;;;Failure to deactivate alarm. System locked
+31;20181230 20:50:19;;;Deactivated alarm
+32;20181230 20:50:19;;;Failed attempt to log in
+33;20181230 20:51:04;;;Deactivated alarm
+34;20181230 20:51:04;;;Failed attempt to log in
+35;20181230 20:55:03;;;Deactivated alarm
+36;20181230 20:56:49;;;Alarm reactivated
+37;20181230 20:57:03;;;Deactivated alarm
+38;20181230 20:57:10;;;Alarm reactivated
+39;20181230 20:57:12;;;Shell sensors triggered
+40;20181230 20:57:18;;;Inside sensors triggered
+41;20181230 20:57:21;;;Deactivated alarm
+42;20190103 10:07:38;;;Failed attempt to log in
+43;20190103 10:07:53;;;Failed attempt to log in
+44;20190103 10:08:32;;;Deactivated alarm
+45;20190103 10:08:51;;;Alarm reactivated
+46;20190103 10:09:03;;;Alarm reactivated
+47;20190103 10:12:07;;;Deactivated alarm
+48;20190103 10:12:22;;;Alarm reactivated
+49;20190103 10:12:34;;;Shell sensors triggered
+50;20190103 10:12:36;;;Deactivated alarm
+51;20190103 10:12:45;;;Alarm reactivated
+52;20190103 10:12:50;;;Shell sensors triggered
+53;20190103 10:12:53;;;Deactivated alarm
+54;20190103 10:22:28;;;Alarm reactivated
+55;20190103 10:22:34;;;Shell sensors triggered
+56;20190103 10:22:39;;;Deactivated alarm
+57;20190103 10:22:53;;;Alarm reactivated
+58;20190103 10:22:55;;;Inside sensors triggered
+59;20190103 10:22:55;;;Shell sensors triggered
+60;20190103 10:23:08;;;Deactivated alarm
+61;20190103 10:30:27;;;Shell sensors triggered
+62;20190103 10:30:32;;;Deactivated alarm
+63;20190103 10:30:47;;;Alarm reactivated
+64;20190103 10:30:52;;;Shell sensors triggered
+65;20190103 10:30:57;;;Deactivated alarm
+66;20190103 10:31:07;;;Alarm reactivated
+67;20190103 10:31:19;;;Shell sensors triggered
+68;20190103 10:31:22;;;Deactivated alarm
+69;20190103 10:31:30;;;Failed attempt to log in
+70;20190103 10:32:12;;;Alarm reactivated
+71;20190103 10:32:14;;;Shell sensors triggered
+72;20190103 19:11:25;;;Failed attempt to log in
+73;20190103 19:11:54;;;Deactivated alarm
+74;20190103 19:12:36;;;The assaultpin was used
+75;20190103 19:12:36;;;Failed attempt to log in
+76;20190103 19:13:01;;;The assaultpin was used
+77;20190103 19:13:01;;;Failed attempt to log in
+78;20190103 19:13:05;;;Deactivated alarm
+79;20190103 19:13:44;;;Alarm reactivated
+80;20190103 19:13:54;;;The assaultpin was used
+81;20190103 19:13:54;;;Failed attempt to log in
+82;20190103 19:15:18;;;The assaultpin was used
+83;20190103 19:15:48;;;Alarm reactivated
+84;20190103 19:15:50;;;Inside sensors triggered
+85;20190103 19:15:56;;;Shell sensors triggered
+86;20190103 19:15:59;;;Deactivated alarm
+87;20190103 19:16:07;;;Alarm reactivated
+88;20190103 19:16:09;;;Shell sensors triggered
+89;20190103 19:16:14;;;Inside sensors triggered
+90;20190103 19:16:16;;;Deactivated alarm
+91;20190103 19:17:00;;;Alarm reactivated
+92;20190103 19:17:02;;;Shell sensors triggered
+93;20190103 19:17:15;;;Deactivated alarm
+94;20190103 19:17:34;;;Alarm reactivated
+95;20190103 19:17:36;;;Inside sensors triggered
+96;20190103 19:17:41;;;Shell sensors triggered
+97;20190103 19:17:44;;;Deactivated alarm
+98;20190103 19:19:32;;;Alarm reactivated
+99;20190103 19:19:42;;;The assaultpin was used
+100;20190103 19:19:52;;;The assaultpin was used
+101;20190103 19:22:51;;;Failed attempt to log in
+102;20190103 19:23:00;;;Failed attempt to log in
+103;20190103 19:23:04;;;Failed attempt to log in
+104;20190103 19:23:06;;;Failure to deactivate alarm. System locked
+105;20190103 19:25:11;;;Deactivated alarm
+106;20190103 19:25:11;;;Deactivated alarm
+107;20190103 19:27:08;;;Deactivated alarm
+108;20190103 19:27:08;;;Deactivated alarm
+109;20190103 19:28:38;;;Deactivated alarm
+110;20190103 19:29:53;;;Deactivated alarm
+111;20190103 19:31:45;;;Failed attempt to log in
+112;20190103 19:33:46;;;Failed attempt to log in
+113;20190103 19:33:51;;;Deactivated alarm
+114;20190103 19:34:32;;;Alarm reactivated
+115;20190104 11:40:48;;;Failed attempt to log in
+116;20190104 11:49:22;;;Failed attempt to log in
+117;20190104 11:50:25;;;Shell sensors triggered
+118;20190104 11:50:29;;;Failed attempt to log in
+119;20190104 11:52:37;;;Deactivated alarm
+120;20190104 11:59:02;;;Alarm reactivated
+121;20190104 18:30:07;;;Deactivated alarm
+122;20190104 18:30:15;;;Alarm reactivated
+123;20190104 18:31:09;;;Deactivated alarm
+124;20190104 18:33:16;;;Failed attempt to log in
+125;20190104 18:33:21;;;Failed attempt to log in
+126;20190104 18:34:12;;;Deactivated alarm
+127;20190106 10:27:30;;;Deactivated alarm
+128;20190106 10:27:49;;;Alarm reactivated
+129;20190106 10:27:51;;;Shell sensors triggered
+130;20190106 10:27:56;;;Inside sensors triggered
+131;20190106 10:27:59;;;Deactivated alarm
+132;20190106 20:42:19;;;Failed attempt to log in
+133;20190106 20:42:27;;;Failed attempt to log in
+134;20190106 20:42:29;;;Failed attempt to log in
+135;20190106 20:42:31;;;Failure to deactivate alarm. System locked
+136;20190106 20:43:51;;;Failed attempt to log in
+137;20190106 20:43:54;;;Failed attempt to log in
+138;20190106 20:43:58;;;Deactivated alarm
+139;20190106 20:58:21;;;Alarm reactivated
+140;20190106 20:58:26;;;Shell sensors triggered
+141;20190106 20:58:33;;;Failed attempt to log in
+142;20190106 20:58:37;;;Deactivated alarm
